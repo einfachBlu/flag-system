@@ -1,0 +1,7 @@
+name: FlagSystem
+main: de.blu.flag.FlagPlugin
+api-version: 1.16
+version: 1.0.0
+author: Blu
+depend:
+  - DatabaseSystem

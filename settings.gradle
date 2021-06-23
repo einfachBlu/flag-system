@@ -1,0 +1,5 @@
+rootProject.name = 'flag-system'
+include 'api'
+include 'bukkit-plugin'
+include 'bungeecord-plugin'
+
